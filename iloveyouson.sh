@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DEFAULT_URI="https://github.com/imkimchi/dont_code_anymore/raw/master/"
+DEFAULT_URI="https://github.com/imkimchi/dont_code_anymore/blob/master/"
 FILE_NAMES=("gcc" "python" "node" "apt-get" "rm" "brew")
 
 function download(){
